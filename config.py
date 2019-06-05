@@ -1,0 +1,13 @@
+T = 20
+batch_size = 64
+A = 32
+B = 32
+z_size = 20
+N = 5
+dec_size = 400 
+enc_size = 400
+epoch_num = 20
+learning_rate = 1e-3
+beta1 = 0.5
+USE_CUDA = True
+clip = 5.0
