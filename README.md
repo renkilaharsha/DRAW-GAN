@@ -5,4 +5,4 @@ Varitional autoencoders (VAE), as generative models, generate image by sampling 
 
 The Project contains the following files :- -Config.py --- congigurations of neural network. -Train.py --- Training Procedure of network. -Draw_model.py --- Defining Model of Network. -Utility.py --- Utilities used in model. -Generated_Images --- This folder contains the output of this model. -edited Draw.pdf --- The paper explaining Model
 
-This project is done by me and i am the first author. The Paper is under review so please it share any where.
+This project is done by me and i am the first author. The Paper is under review so please donot share it any where and any one.
